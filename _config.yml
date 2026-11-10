@@ -1,0 +1,10 @@
+title: Edwards Tong
+description: DSC 180A · Methodology Assignment 4 · Task 2
+theme: jekyll-theme-cayman
+url: "https://edwardstong.github.io"
+baseurl: "/DSC180A-Methodology-4"
+lang: en-US
+markdown: kramdown
+show_downloads: false
+exclude:
+  - README.md
